@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Node (if using npm/Node tools)
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
